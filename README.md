@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## Ogólne
-This project is simple Lorem ipsum dolor generator.
+Prototyp systemu Sklepu z produktami spożywczymi na laboratorium z Inżynierii Oprogramowania.
 	
 ## Technologie
 Projekt działa na : 
@@ -16,10 +16,7 @@ Wymagane biblioteki :
 * numpy
 	
 ## Setup
-To run this project, install it locally using npm:
+Projekt był tworzony w PyCharmie w wersji 2020.1.1 i tego interpretera zalecamy użyć.
+Wszystkie pliki załączone w repozytorium powinny być w jednym folderze(3 .py i 2 .png).
+Wystarczy włączyć plik "main.py" w interpreterze.
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
