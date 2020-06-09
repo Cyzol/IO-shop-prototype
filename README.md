@@ -1,1 +1,3 @@
-# Nic tu jeszcze nie ma
+## Technologies
+Projekt stworzony z :
+Python 3.8
