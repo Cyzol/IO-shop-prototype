@@ -1,4 +1,4 @@
-## Table of contents
+## Nawigacja
 * [Ogólne](#Ogólne)
 * [Technologie](#Technologie)
 * [Setup](#setup)
