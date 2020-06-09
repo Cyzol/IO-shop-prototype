@@ -19,4 +19,5 @@ Wymagane biblioteki :
 Projekt był tworzony w PyCharmie w wersji 2020.1.1 i tego interpretera zalecamy użyć.
 Wszystkie pliki załączone w repozytorium powinny być w jednym folderze(3 .py i 2 .png).
 Wystarczy włączyć plik "main.py" w interpreterze.
+Whitelista w systemie bazy danych została wyłączona, dlatego nie powinno być problemu z działaniem programu.
 
