@@ -1,9 +1,9 @@
 ## Table of contents
-* [General info](#general-info)
+* [Ogólne](#Ogólne)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-## General info
+## Ogólne
 This project is simple Lorem ipsum dolor generator.
 	
 ## Technologies
