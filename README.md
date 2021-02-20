@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## Ogólne
-Prototyp systemu Sklepu z produktami spożywczymi na laboratorium z Inżynierii Oprogramowania.
+Prototyp systemu Sklepu z produktami spożywczymi
 	
 ## Technologie
 Projekt działa na : 
